@@ -7,5 +7,4 @@ In my free time, you’ll find me diving into new technologies, planning trips, 
 
 Let’s connect and build something amazing together.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Kamila-Li=anuraghazra&show_icons=true&theme=transparent)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?Kamila-Li=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
